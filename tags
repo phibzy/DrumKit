@@ -1,0 +1,12 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+buttons	index.js	/^var buttons = document.querySelectorAll(".drum");$/;"	v
+i	index.js	/^var i = 0;$/;"	v
+playAnimation	index.js	/^function playAnimation(keyPressed) {$/;"	f
+playSound	index.js	/^function playSound(key, drumSound) {$/;"	f
+soundKeys	index.js	/^function soundKeys(keyPressed) {$/;"	f
+soundNames	index.js	/^var soundNames = ["crash", "kick-bass", "snare", "tom-1", "tom-2", "tom-3", "tom-4"];$/;"	v
