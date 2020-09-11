@@ -4,3 +4,7 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+clickSound	index.js	/^function clickSound (e) {$/;"	f
+order	index.js	/^var order = [$/;"	v
+playSound	index.js	/^function playSound (soundfile) {$/;"	f
+whichSound	index.js	/^function whichSound (keyPressed) {$/;"	f
