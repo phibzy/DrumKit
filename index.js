@@ -1,4 +1,5 @@
 // Array to determine button order
+// CSS must be changed separately
 var order = [
          "crash",
          "kick-bass",
